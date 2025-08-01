@@ -18,8 +18,8 @@ For full details on the methodology and experimental results, please see our pap
 
 *   **MedFactEval Framework**: A scalable evaluation pipeline that uses an LLM Jury to assess the factual presence and consistency of AI-generated text against clinician-defined key facts.
 *   **MedAgentBrief Workflow**: A model-agnostic, multi-step pipeline for generating high-fidelity clinical summaries from unstructured notes.
-*   **Benchmark Data**: A benchmark for discharge summary evaluation based on the public MIMIC dataset to facilitate further research.
 *   **Analysis Code**: Scripts to replicate the meta-evaluation, non-inferiority analysis, and figures presented in our paper.
+*   **Samples**: Includes anonymized examples of both MedAgentBrief-generated summaries and MedFactEval evaluation reports for reference.
 
 ## Repository Structure
 
@@ -27,7 +27,7 @@ For full details on the methodology and experimental results, please see our pap
 medfacteval/
 ├── medfacteval/          # Core code for the MedFactEval framework and LLM Jury
 ├── medagentbrief/        # Code for the MedAgentBrief generation workflow
-├── samples/                 # Anonymized samples of a MedAgentBrief summary and a MedFactEval evaluation repo 
-├── requirements.txt      # Project dependencies
+├── analysis/             # Code for meta-evaluation, statistical analysis, and figure generation
+├── samples/                 # Anonymized samples of a MedAgentBrief summary and a MedFactEval evaluation repo s
 └── README.md
 ```
