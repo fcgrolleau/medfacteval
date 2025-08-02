@@ -65,6 +65,7 @@ medfacteval/
 │   └── anonymized_medfacteval_report.html
 │
 ├── supplementary_materials.pdf # Supplementary materials (Table S1, Figures S1-S3)
+├── requirements.txt            # Python dependencies and package requirements
 └── README.md
 ```
 
