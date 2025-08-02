@@ -3,8 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Paper](https://img.shields.io/badge/paper-under_review-b31b1b)
 
-Official implementation for the paper:  
-**"MedFactEval and MedAgentBrief: A Framework and Pipeline for Generating and Evaluating Factual Clinical Summaries"**
+Official implementation for the paper:  **"MedFactEval and MedAgentBrief: A Framework and Pipeline for Generating and Evaluating Factual Clinical Summaries"**
 
 This repository provides the complete source code for **MedFactEval**, a framework for scalable, fact-grounded evaluation of AI-generated clinical text, and **MedAgentBrief**, a model-agnostic workflow for generating high-quality, factual discharge summaries.
 
@@ -111,4 +110,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## Contact
 
-For questions or collaborations, please open an issue or contact the authors via the email listed in the paper.
+For questions or collaborations, please contact François Grolleau: [grolleau@stanford.edu](mailto:grolleau@stanford.edu)
